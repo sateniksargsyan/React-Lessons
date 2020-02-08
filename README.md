@@ -4,7 +4,7 @@
 ## Functonal Programming
 
 1.Pure function
-2.Unmutate
+1.Unmutate
 
 
 
