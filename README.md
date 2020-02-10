@@ -3,8 +3,8 @@
 
 ## Functonal Programming
 
-1.Pure function
-2.Unmutate
+1. Pure function
+1. Unmutate
 
 
 
@@ -27,4 +27,4 @@ super(props);
 **Render method can called in 3 time**
 1. State
 1. Props
-3.ForceUpdate
+1. ForceUpdate
