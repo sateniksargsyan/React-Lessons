@@ -24,7 +24,7 @@ super(props);
 
 
 
-** Render method can called in 3 time **
+**Render method can called in 3 time**
 1.State
 2.Props
 3.ForceUpdate
