@@ -44,3 +44,22 @@ super(props);
 * proptypes առանձին lib
 * JSX can return ** null or JSX **
 
+## For changing current this we can
+* call
+* apply
+* Bind 
+
+## 
+* Ref 
+1․ ծնողից children-ի ֆ-ա աշխ-ելու համար, but it's antipattern
+1. դրսի lib-րի համար
+1. elementById -ի փոխարեն
+
+* React Fragment
+
+* Hoc=High Order Component
+* React-Router
+
+## JS Reduce function 
+
+
