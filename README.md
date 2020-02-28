@@ -59,7 +59,18 @@ super(props);
 
 * Hoc=High Order Component
 * React-Router
+Router is a library
+npm install react-router-dom --save
+
+exact attribute is using for  
+
+
 
 ## JS Reduce function 
+
+## Context API
+
+## Local Storage
+
 
 
